@@ -1,0 +1,18 @@
+{
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "488a50e3d531db2e0a06e5921baca129ba1040aa62b70a4ca017d213e7bc5916",
+    "original_checksum": "488a50e3d531db2e0a06e5921baca129ba1040aa62b70a4ca017d213e7bc5916"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "058960f49413bf533f1da912cf47c9e6c78547746e5ffe2b61851d68345f5090",
+    "original_checksum": "058960f49413bf533f1da912cf47c9e6c78547746e5ffe2b61851d68345f5090"
+  }
+}
